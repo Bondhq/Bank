@@ -2,6 +2,7 @@
 a cryptocurrency bank
 
 
-## Abstract
-
+#### Abstract
+```
 We're building a blockchain based bank for a digital-first world. 
+```
